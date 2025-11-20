@@ -1,22 +1,79 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Guts-nightmares
-========================================================================================================================================
+<h1 align="center">Hi 👋, I'm Guts-nightmares</h1>
+<h3 align="center">💻 Backend Developer Student | Passionate about Linux, cybersecurity, and creating secure web projects!</h3>
 
-Passionate about backend development, Linux, and cybersecurity.
----------------------------------------------------------------
-
-I’m a second-year computer science student focused on web development and C#, with a strong preference for backend work. I also build personal projects using Python, React, Flask, and databases. I’m passionate about Linux, networking, and ethical hacking, and I regularly practice web and network security.
-
-* 🌍  I'm based in Switzerland
-* 🖥️  See my portfolio at [Self-hosted cloud running on a Raspberry Pi at home](http://nextcloud.bnoel.ch/)
-* ✉️  You can contact me at [bertrand@bnoel.ch](mailto:bertrand@bnoel.ch)
-* 🧠  I'm currently learning Python
-* 👥  I'm looking to collaborate on any project where you can teach me skills, especially in cybersecurity
-* 💬  Ask me about Big fan of Berserk—if it wasn’t obvious already
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bnoel&label=Profile%20views&color=0e75b6&style=flat" alt="bnoel" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.x.com/GutsMiura59318" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://discord.com/users/sangoku1871" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+### 📫 Reach Me:
+**Email:** [bertrand@bnoel.ch](mailto:bertrand@bnoel.ch)  
+**Portfolio:** [Self-hosted cloud on Raspberry Pi](http://nextcloud.bnoel.ch/)  
+**Discord:** [sangoku1871](https://discord.com/users/sangoku1871)  
+**X/Twitter:** [GutsMiura59318](https://www.x.com/GutsMiura59318)
+
+---
+
+### 👨‍💻 About Me
+
+I’m a second-year computer science student with a focus on **backend development** using **C#**, **Python**, **Flask**, and databases.  
+
+I’m passionate about **Linux**, **networking**, and **ethical hacking**, regularly practicing web and network security. I also enjoy building personal projects that explore secure architectures and real-world applications.  
+
+When I’m not coding, I’m likely exploring the world of **Berserk**, learning new tools, or tinkering with my Raspberry Pi cloud server.
+
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="Bash" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" width="40" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- [**Raspberry Pi Self-hosted Cloud**](http://nextcloud.bnoel.ch/)  
+  Personal project exploring home cloud hosting and network security.
+
+- [**Web Security Labs**](#)  
+  Learning and practicing ethical hacking on safe, isolated environments. *(In progress)*
+
+---
+
+### 📚 Recommended Resources
+
+- [OWASP Web Security](https://owasp.org/) - Learn web vulnerabilities and mitigation  
+- [The Linux Command Line](http://linuxcommand.org/) - Mastering Linux for development  
+- [TryHackMe](https://tryhackme.com/) - Hands-on cybersecurity practice
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guts-nightmares&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guts-nightmares&layout=compact&theme=radical" />
+</p>
+
+---
+
+
+
+<p align="center">
+  <i>"Always learning, always securing, always coding."</i>
+</p>
+
+
+
+<img src="https://raw.githubusercontent.com/maurodesouz/Guts-nightmares/main/output/snake.svg" alt="Snake animation" />
+
