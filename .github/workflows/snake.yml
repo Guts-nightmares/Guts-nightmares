@@ -1,0 +1,33 @@
+name: Generate GitHub Snake Animation
+
+# Quand exécuter l'action
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # toutes les 12 heures
+  workflow_dispatch:          # permet de lancer l'action manuellement
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # pour pouvoir pousser le fichier dans une branche
+    steps:
+      # 1️⃣ Récupérer le dépôt
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2️⃣ Générer le Snake SVG pour ton compte GitHub
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark
+
+      # 3️⃣ Pousser le fichier SVG dans la branche `output`
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
