@@ -17,9 +17,9 @@
 
 ### 👨‍💻 About Me
 
-I’m a second-year computer science student with a focus on **backend development** using **C#**, **Python**, **Flask**, and databases.  
+I’m a second-year computer science student with experience in both frontend and backend development. I work with **PHP**, **JavaScript**, and **React** on the frontend, while also building backend systems using **C#**, **Python**, **Flask**, and databases.
 
-I’m passionate about **Linux**, **networking**, and **ethical hacking**, regularly practicing web and network security. I also enjoy building personal projects that explore secure architectures and real-world applications.  
+I’m passionate about **Linux**, **networking**, and **ethical hacking**, regularly practicing web and **network security**. I enjoy creating personal projects that explore secure architectures and real-world applications.
 
 When I’m not coding, I’m likely exploring the world of **Berserk**, learning new tools, or tinkering with my Raspberry Pi cloud server.
 
@@ -64,7 +64,6 @@ When I’m not coding, I’m likely exploring the world of **Berserk**, learning
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guts-nightmares&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guts-nightmares&layout=compact&theme=radical" />
 </p>
 
