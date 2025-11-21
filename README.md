@@ -26,6 +26,9 @@ When I’m not coding, I’m likely exploring the world of **Berserk**, learning
 ---
 
 ### 🛠️ Languages & Tools
+<p align="left">
+  I know the basics of : 
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" width="40" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="40" />
@@ -75,5 +78,6 @@ When I’m not coding, I’m likely exploring the world of **Berserk**, learning
 
 
 
-<img src="https://raw.githubusercontent.com/maurodesouz/Guts-nightmares/main/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Guts-nightmares/Guts-nightmares/output/snake.svg" alt="Snake animation" />
+
 
