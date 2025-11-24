@@ -27,9 +27,13 @@ When I’m not coding, I’m scanning the web, searching for targets.
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  I know the basics of : 
+  I know the basics of :
 </p>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" width="40" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="40" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="Bash" width="40" />
@@ -55,17 +59,23 @@ When I’m not coding, I’m scanning the web, searching for targets.
 ---
 
 ### 📚 Recommended Resources
-
+- [IppSec](https://www.youtube.com/results?search_query=IppSec) - Operates HTB machines step by step.
+- [ohn Hammond](https://www.youtube.com/results?search_query=ohn+Hammond) - Vulnerabilities explained clearly
+- [STÖK](https://www.youtube.com/@STOKfredrik) - Bug bounty tutorials
+- [Black Hat Presentations](https://www.youtube.com/@BlackHatOfficialYT) - hacking conferences
+- [DEFCON](https://defcon.social/@defcon) - Official Hacker Conference
+- [Bug0xF4](https://www.youtube.com/@Bug0xF4) - The channel of MLT from Team Poison
 - [HTB](https://www.hackthebox.com/capture-the-flag) - Hack The Box
-- [OWASP Web Security](https://owasp.org/) - Learn web vulnerabilities and mitigation  
 - [TryHackMe](https://tryhackme.com/) - Hands-on cybersecurity practice
+- [HackerOne Hacktivity](https://hackerone.com/hacktivity/overview) - Real bug bounty reports
+- [Cybrary](https://www.cybrary.it/) - Cybersecurity training (free)
 
----
+--- 
 
 ### 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guts-nightmares&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guts-nightmares&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guts-nightmares&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guts-nightmares&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -76,8 +86,4 @@ When I’m not coding, I’m scanning the web, searching for targets.
   <i>"Always learning, always securing, always coding."</i>
 </p>
 
-
-
 <img src="https://raw.githubusercontent.com/Guts-nightmares/Guts-nightmares/output/snake.svg" alt="Snake animation" />
-
-
