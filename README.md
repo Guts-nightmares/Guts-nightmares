@@ -9,7 +9,7 @@
 
 ### 📫 Reach Me:
 **Email:** [bertrand@bnoel.ch](mailto:bertrand@bnoel.ch)  
-**Portfolio:** [Self-hosted cloud on Raspberry Pi](http://nextcloud.bnoel.ch/)  
+**WebSite:** [Self-hosted cloud on Raspberry Pi](http://nextcloud.bnoel.ch/)  
 **Discord:** [sangoku1871](https://discord.com/users/sangoku1871)  
 **X/Twitter:** [GutsMiura59318](https://www.x.com/GutsMiura59318)
 
@@ -21,7 +21,7 @@ I’m a second-year computer science student with experience in both frontend an
 
 I’m passionate about **Linux**, **networking**, and **ethical hacking**, regularly practicing web and **network security**. I enjoy creating personal projects that explore secure architectures and real-world applications.
 
-When I’m not coding, I’m likely exploring the world of **Berserk**, learning new tools, or tinkering with my Raspberry Pi cloud server.
+When I’m not coding, I’m scanning the web, searching for targets.
 
 ---
 
@@ -49,22 +49,23 @@ When I’m not coding, I’m likely exploring the world of **Berserk**, learning
 - [**Raspberry Pi Self-hosted Cloud**](http://nextcloud.bnoel.ch/)  
   Personal project exploring home cloud hosting and network security.
 
-- [**Web Security Labs**](#)  
+- [**Web Security Labs**](https://github.com/Guts-nightmares/mini-cyberproject)  
   Learning and practicing ethical hacking on safe, isolated environments. *(In progress)*
 
 ---
 
 ### 📚 Recommended Resources
 
+- [HTB](https://www.hackthebox.com/capture-the-flag) - Hack The Box
 - [OWASP Web Security](https://owasp.org/) - Learn web vulnerabilities and mitigation  
-- [The Linux Command Line](http://linuxcommand.org/) - Mastering Linux for development  
 - [TryHackMe](https://tryhackme.com/) - Hands-on cybersecurity practice
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guts-nightmares&layout=compact&theme=radical" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guts-nightmares&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guts-nightmares&layout=compact&theme=radical" />
 </p>
 
 ---
