@@ -15,19 +15,28 @@ jobs:
       # 1️⃣ Récupérer le dépôt
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   # ⚡ nécessaire pour récupérer tout l’historique pour la snake
 
       # 2️⃣ Générer le Snake SVG pour ton compte GitHub
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          output: dist/snake.svg
+          palette: github-dark
 
-      # 3️⃣ Pousser le fichier SVG dans la branche `output`
+      # 3️⃣ Forcer le push vers la branche `output` (reset automatique)
       - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git checkout --orphan output
+          git rm -rf .
+          mv dist/snake.svg snake.svg
+          git add snake.svg
+          git commit -m "Update snake.svg"
+          git push -f origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
