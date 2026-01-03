@@ -4,7 +4,7 @@ name: Generate GitHub Snake Animation
 on:
   schedule:
     - cron: "0 */12 * * *"   # toutes les 12 heures
-  workflow_dispatch:          # permet de lancer l'action manuellement
+  workflow_dispatch:          # permet de lancer manuellement
 
 jobs:
   generate-snake:
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0   # ⚡ nécessaire pour récupérer tout l’historique pour la snake
+          fetch-depth: 0   # ⚡ récupère tout l'historique
 
       # 2️⃣ Générer le Snake SVG pour ton compte GitHub
       - name: Generate snake.svg
@@ -26,17 +26,26 @@ jobs:
           output: dist/snake.svg
           palette: github-dark
 
-      # 3️⃣ Forcer le push vers la branche `output` (reset automatique)
+      # 3️⃣ Forcer push vers la branche `output` avec date 2026
       - name: Push snake.svg to output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
+
+          # Crée une branche orphan (zéro historique)
           git checkout --orphan output
           git rm -rf .
+
+          # Déplace le snake dans la racine
           mv dist/snake.svg snake.svg
           git add snake.svg
+
+          # Commit daté 2026
+          GIT_AUTHOR_DATE="2026-01-01T12:00:00" \
+          GIT_COMMITTER_DATE="2026-01-01T12:00:00" \
           git commit -m "Update snake.svg"
+
+          # Force push vers output
           git push -f origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
